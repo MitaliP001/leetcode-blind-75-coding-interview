@@ -17,4 +17,4 @@ The solutions are implemented in **C**, providing efficient and clean code for i
 ## How to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetcode-blind-75-coding-interview.git
+   git clone https://github.com/MitaliP001/leetcode-blind-75-coding-interview.git
